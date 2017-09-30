@@ -17,6 +17,9 @@ public:
 
 	// Called when the game starts
 	virtual void BeginPlay() override;
+
+	// Opens the door :P
+	void OpenDoor();
 	
 	// Called every frame
 	virtual void TickComponent( float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction ) override;
@@ -26,6 +29,6 @@ private:
 		float OpenAngle = 90.0f;
 	UPROPERTY(EditAnywhere)
 		ATriggerVolume* PressurePlate;
-	UPROPERTY(EditAnywhere)
-		AActor* ActorThatOpens; // Rememeber pawn inherits from Actor
+	
+	AActor* ActorThatOpens; // Rememeber pawn inherits from Actor
 };
