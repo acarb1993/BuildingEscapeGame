@@ -33,4 +33,13 @@ private:
 
 	// Called when grab is released
 	void Release();
+
+	//Find attached physics handle
+	void FindPhysicsHandleComponent();
+
+	// Setup input component
+	void SetupInputComponent();
+
+	// Return hit for frist physics body in reach
+	const FHitResult GetFirstPhysicsBodyInReach();
 };
