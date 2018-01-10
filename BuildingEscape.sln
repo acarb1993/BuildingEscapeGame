@@ -63,8 +63,8 @@ Global
 		{4BE4A73E-AC9A-43C6-990F-19D62967FEBA}.DebugGame Editor|HTML5.ActiveCfg = DebugGame_Editor|x64
 		{4BE4A73E-AC9A-43C6-990F-19D62967FEBA}.DebugGame Editor|HTML5.Build.0 = DebugGame_Editor|x64
 		{4BE4A73E-AC9A-43C6-990F-19D62967FEBA}.DebugGame Editor|Win32.ActiveCfg = DebugGame_Editor|Win32
-		{4BE4A73E-AC9A-43C6-990F-19D62967FEBA}.DebugGame Editor|Win64.ActiveCfg = DebugGame_Editor|x64
-		{4BE4A73E-AC9A-43C6-990F-19D62967FEBA}.DebugGame Editor|Win64.Build.0 = DebugGame_Editor|x64
+		{4BE4A73E-AC9A-43C6-990F-19D62967FEBA}.DebugGame Editor|Win64.ActiveCfg = Development_Editor|x64
+		{4BE4A73E-AC9A-43C6-990F-19D62967FEBA}.DebugGame Editor|Win64.Build.0 = Development_Editor|x64
 		{4BE4A73E-AC9A-43C6-990F-19D62967FEBA}.DebugGame|HTML5.ActiveCfg = HTML5_DebugGame_Game|Win32
 		{4BE4A73E-AC9A-43C6-990F-19D62967FEBA}.DebugGame|HTML5.Build.0 = HTML5_DebugGame_Game|Win32
 		{4BE4A73E-AC9A-43C6-990F-19D62967FEBA}.DebugGame|Win32.ActiveCfg = DebugGame_Game|Win32
