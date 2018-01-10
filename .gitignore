@@ -1,6 +1,15 @@
+########################
+#Unreal Generated Files#
+########################
 Intermediate/
 Binaries/
 Content/StarterContent
 Saved/
+
+###############################
+#Visual Studio Generated Files#
+###############################
 BuildingEscape.VC.db
 .vs/
+.suo/
+.VC.opendb/
