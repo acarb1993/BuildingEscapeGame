@@ -6,6 +6,7 @@ Binaries/
 Content/StarterContent
 DerivedDataCache/
 Saved/
+Content/My_Pulse.uasset
 
 ###############################
 #Visual Studio Generated Files#
@@ -14,3 +15,4 @@ BuildingEscape.VC.db
 .vs/
 .suo/
 .VC.opendb/
+BuildingEscape.VC.VC.opendb

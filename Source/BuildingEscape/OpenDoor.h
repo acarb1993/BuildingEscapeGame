@@ -31,14 +31,14 @@ private:
 	float OpenAngle = -90.0f;
 
 	UPROPERTY(EditAnywhere)
-	ATriggerVolume* PressurePlate;
+	ATriggerVolume* PressurePlate = nullptr;
 
 	UPROPERTY(EditAnywhere)
 	float DoorCloseDelay = 0.4f;
 	float DoorLastOpenTime;
 	
-	AActor* ActorThatOpens; // Rememeber pawn inherits from Actor
-	AActor* Owner; // The owning door
+	AActor* ActorThatOpens = nullptr; // Rememeber pawn inherits from Actor
+	AActor* Owner= nullptr; // The owning door
 
 	// Returns total mass in kg
 	float GetTotalMassOfActorsOnPlate();
